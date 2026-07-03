@@ -69,13 +69,13 @@ News-Summarizer-using-Machine-Learning/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/aatifamugheer/News-Summarizer.git
+git clone https://github.com/aatifamugheer/News-Summarizer-using-Machine-Learning
 ```
 
 ### Navigate to the project
 
 ```bash
-cd News-Summarizer
+cd News-Summarizer-using-Machine-Learning
 ```
 
 ### Install dependencies
