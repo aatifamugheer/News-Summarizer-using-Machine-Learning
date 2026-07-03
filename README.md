@@ -27,15 +27,11 @@ Reading lengthy news articles can be time-consuming. This project simplifies new
 
 ### 💻 Project Structure
 
-> Add your VS Code screenshot here.
-
 ![VS Code Project](images/project-structure.png)
 
 ---
 
 ### 📰 Application Interface
-
-> Add your application screenshot here.
 
 ![Application Screenshot](images/news-summarizer.png)
 
@@ -56,28 +52,24 @@ Reading lengthy news articles can be time-consuming. This project simplifies new
 ## 📂 Project Structure
 
 ```
-News-Summarizer/
+News-Summarizer-using-Machine-Learning/
 │
 ├── newssummarizer.py
-├── requirements.txt
 ├── README.md
 ├── LICENSE
 │
 ├── images/
 │   ├── project-structure.png
 │   └── news-summarizer.png
-│
-└── .venv/
-```
 
----
+```
 
 ## ⚙️ Installation
 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/News-Summarizer.git
+git clone https://github.com/aatifamugheer/News-Summarizer.git
 ```
 
 ### Navigate to the project
